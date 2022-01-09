@@ -1,0 +1,7 @@
+#app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 5px;
+    font-family: Gill Sans Extrabold, sans-serif;
+}
